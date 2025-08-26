@@ -70,6 +70,5 @@ The output will be a CSV file with an additional column `target_label`, which re
 ---
 
 ## Disclaimer
-
-**Copyrights Reserved**:  
+ 
 @Codebasics Inc  
